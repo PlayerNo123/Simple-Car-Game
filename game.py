@@ -1,6 +1,6 @@
 """
 @author: PlayerNo123
-@email: ishaanya27@gmail.com
+@discord id: =͟͟͞𝐒𝐗〢PlayerNo123#3076
 """
 import random
 from time import sleep
@@ -137,7 +137,7 @@ class CarRacing:
         self.gameDisplay.blit(text, (600, 520))
         text = font.render("PlayerNo123", True, self.white)
         self.gameDisplay.blit(text, (600, 540))
-        text = font.render("ishaanya27@gmail.com", True, self.white)
+        text = font.render("=͟͟͞𝐒𝐗〢PlayerNo123#3076", True, self.white)
         self.gameDisplay.blit(text, (600, 560))
 
 
